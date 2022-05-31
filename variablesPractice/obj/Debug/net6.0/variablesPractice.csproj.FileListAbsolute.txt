@@ -1,0 +1,15 @@
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\bin\Debug\net6.0\variablesPractice.exe
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\bin\Debug\net6.0\variablesPractice.deps.json
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\bin\Debug\net6.0\variablesPractice.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\bin\Debug\net6.0\variablesPractice.dll
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\bin\Debug\net6.0\variablesPractice.pdb
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.dll
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\refint\variablesPractice.dll
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.pdb
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\variablesPractice.genruntimeconfig.cache
+C:\Users\baine\Desktop\repos\csharp27\variablesPractice\variablesPractice\obj\Debug\net6.0\ref\variablesPractice.dll
